@@ -91,6 +91,17 @@ formcampus/
 - ✅ Responsive mobile (hamburger menu)
 - ✅ Design original conservé (carrousel 3D, glassmorphism)
 
+
+## Screenshots
+
+### Login Page
+![Login](screenshots/login.png)
+
+### Admin Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Formations
+![Formations](screenshots/formations.png)
 ---
 
 
