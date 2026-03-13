@@ -1,4 +1,27 @@
+# FormCampus Learning Platform
 
+Plateforme web de gestion de formations en ligne.
+
+## Technologies
+- PHP
+- MySQL
+- HTML
+- CSS
+- JavaScript
+
+## Fonctionnalités
+- Gestion des formations
+- Inscription des utilisateurs
+- Tableau de bord administrateur
+- Notifications
+- Évaluation des formations
+
+## Installation
+
+1. Cloner le projet
+2. Importer la base de données (sql/)
+3. Configurer includes/db.php
+4. Lancer avec XAMPP
 
 ## 📁 Structure des fichiers
 
