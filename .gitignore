@@ -1,0 +1,7 @@
+/uploads/*
+!.gitkeep
+
+.env
+config.php
+node_modules
+vendor
